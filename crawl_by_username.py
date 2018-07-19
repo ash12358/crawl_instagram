@@ -17,6 +17,9 @@ global_url = None
 base_path = './images/'
 
 img_url_texts = {}
+# 更换用户数据字典
+encoded_jsons = []
+user_info = {}
 PAT = re.compile(r'queryId:"(.+?)",', re.MULTILINE)
 headers = {
     "Origin": "https://www.instagram.com/",
@@ -123,23 +126,28 @@ def convert_text_to_a_line(text):
     return text
 
 def extract_from_edges(edges):
-    print('提取图片')
-    for edge in edges:
-        if edge['node']['is_video'] == False:
-            img_url = edge["node"]["display_url"]
-            # img_url = convert_text_to_a_line(img_url)
-            edges_for_text = edge['node']['edge_media_to_caption']['edges']
-            text = ''
-            if edges_for_text and len(edges_for_text) > 0:
-                text = edges_for_text[0]['node']['text']
-                text = convert_text_to_a_line(text)
-            if len(img_url_texts.keys()) < 200:
-                img_url_texts[img_url] = text
 
-            # print('phtot, save')
-        else:
-            # print('video, pass')
-            pass
+    # print('提取图片')
+    # for edge in edges:
+    #     if edge['node']['is_video'] == False:
+    #         img_url = edge["node"]["display_url"]
+    #         # img_url = convert_text_to_a_line(img_url)
+    #         edges_for_text = edge['node']['edge_media_to_caption']['edges']
+    #         text = ''
+    #         if edges_for_text and len(edges_for_text) > 0:
+    #             text = edges_for_text[0]['node']['text']
+    #             text = convert_text_to_a_line(text)
+    #         if len(img_url_texts.keys()) < 200:
+    #             img_url_texts[img_url] = text
+    #
+    #         # print('phtot, save')
+    #     else:
+    #         # print('video, pass')
+    #         pass
+
+    # 直接将json数据保存下来
+    encoded_json = json.dumps(edges)
+    encoded_jsons.append(encoded_json)
 
     pass
 
@@ -152,6 +160,7 @@ def crawl_first(username):
     headers.update({'Referer': temp_url})
     # res = qq.get(url=temp_url, headers=headers)
 
+    print('请求res')
     res = define_request(qq, temp_url, headers)
     print(res.status_code)
 
@@ -191,18 +200,20 @@ def is_crawled(username):
 
 
 def save_to_txt(username):
-    if len(img_url_texts.keys()) > 0:
-        path = base_path + username + '.txt'
-        print('保存的路径：', path)
-        try:
-            with open(path, 'wb+') as f:
-                for key in img_url_texts.keys():
-                    f.write((key + '\n').encode('utf-8'))
-                    # f.write(img_url_texts[key] + '\n')
-                    f.write((img_url_texts[key] + '\n').encode('utf-8'))
-            print('保存完毕')
-        except:
-            os.remove(path)
+    # if len(img_url_texts.keys()) > 0:
+    #     path = base_path + username + '.txt'
+    #     print('保存的路径：', path)
+    #     try:
+    #         with open(path, 'wb+') as f:
+    #             for key in img_url_texts.keys():
+    #                 f.write((key + '\n').encode('utf-8'))
+    #                 # f.write(img_url_texts[key] + '\n')
+    #                 f.write((img_url_texts[key] + '\n').encode('utf-8'))
+    #         print('保存完毕')
+    #     except:
+    #         os.remove(path)
+
+    # 保存到mongodb中，或是保存成txt
 
     pass
 
@@ -217,10 +228,12 @@ def crawl_by_username(username):
         print('开始爬取', username)
         img_url_texts.clear()
         crawl_first(username)
-        save_to_txt(username)
+        # save_to_txt(username)
+        # 现在不保存到txt中，而是保存到mongodb中，所以需要将该用户的信息按照字典格式返回
+
         pass
 
-    return new_black
+    return new_black, encoded_jsons
     pass
 
 
