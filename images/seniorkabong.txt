@@ -1,0 +1,400 @@
+https://scontent-sit4-1.cdninstagram.com/vp/3105b2213a192ec58f278c80d0ec5fe4/5BD5FB4C/t51.2885-15/e35/35574562_395730894253737_5112897367451893760_n.jpg
+<moustache-twirl.gif>
+https://scontent-sit4-1.cdninstagram.com/vp/14c2f83f41627a9108bc5b83d160f5fa/5BD3E0E2/t51.2885-15/e35/35293363_212398829398552_4954299343495495680_n.jpg
+White bread with poolish from @kenforkish’s #FWSY. On nom? Nom nom.
+https://scontent-sit4-1.cdninstagram.com/vp/aefd689d3d776ba16bda1b98dd26593d/5B4F2207/t51.2885-15/e15/35166557_946776955447130_4318397197298171904_n.jpg
+Just need a better piezo speaker now. Thanks for sharing the project, @deshipu, was a fun excuse to learn more about programming an attiny85. Documentation on @hackaday helped quite a bit. P.S. Nice work on the PCBs, @oshpark 🤘
+https://scontent-sit4-1.cdninstagram.com/vp/9f74b8b9b8bd259cad3bc627ebb26c6a/5BE9ABB9/t51.2885-15/e35/34877719_379692275770007_2145830021166530560_n.jpg
+This month’s @boldportclub project, a neat light to sound circuit, turned out to be an opportunity to try hot air soldering with a custom @oshstencils stencil. Best part is it worked apart from melting one of the DPDT switches. Circuit still functions, success!
+https://scontent-sit4-1.cdninstagram.com/vp/4c639f83b7d660f73a79a95803d27628/5BC92B86/t51.2885-15/e35/34820988_492792321156249_5918428005759188992_n.jpg
+Happy 3rd anniversary to Accomplice, my favorite brewery & ciderworks! New tap handles are looking good 😝
+https://scontent-sit4-1.cdninstagram.com/vp/ee5586f1e7c771bb5220dd84146e0495/5BCBEB58/t51.2885-15/e35/33020061_193353351311069_3183819111465484288_n.jpg
+Experimenting with programming an ATtiny85 via the Arduino IDE. I’m a fan of the name of the @makersboxus shield which is used in the process. #YAPS
+https://scontent-sit4-1.cdninstagram.com/vp/65e46ca880c9675222d1a13867cc4221/5BD1FE1B/t51.2885-15/e35/33157268_399449233903162_5536752812127420416_n.jpg
+SpaceX #SES12 launch as seen from Jupiter, FL. From shortly after launch until MECO.
+https://scontent-sit4-1.cdninstagram.com/vp/a4b47a6f9679e10ec1c1e2cf1e970192/5B4E95BC/t51.2885-15/e15/33130609_223989421525923_8766565345386299392_n.jpg
+‪Got it! @makersboxus SMD challenge is complete! I lost three 0201 LEDs and one 0402 LED along the way, but it’s done now after a @digikeyelectronics resupply! Now to try the misery edition?‬
+https://scontent-sit4-1.cdninstagram.com/vp/06aea8ea4eedcaa352c03b8526534ef0/5B4EB764/t51.2885-15/e15/33736386_812561692276462_7630970537715433472_n.jpg
+Sure, it’s a very simple circuit, but it’s also incredibly rewarding to have an understanding of the open source tools (#kicad) that can produce PCBs. Thanks to @chrisgammell for the great YouTube tutorials and @oshpark for the boards. Already have more complex designs sent off to the fab and plenty of ideas in the rafters. #contextualelectronics
+https://scontent-sit4-1.cdninstagram.com/vp/904dcc63bf877f2e1a326efff1ffa005/5BDFB3B6/t51.2885-15/e35/33248157_221197851825979_5340487504078307328_n.jpg
+Getting @oshpark PCBs in the mail is way more exciting than getting regular stuff in the mail.
+https://scontent-sit4-1.cdninstagram.com/vp/b70d453a6dd91b965d9ae34bb4f785f0/5BEAABB6/t51.2885-15/e35/32178558_169121183762883_8438398383336456192_n.jpg
+Adventures in SMD soldering continue with a @sparkfun ‘Simon Says’ SMD kit I bought a few years back. I have discovered that SMD soldering is much easier with solder paste.
+https://scontent-sit4-1.cdninstagram.com/vp/4f32e8958a8f19f5ffa4b7e4f974af4b/5BCE870C/t51.2885-15/e35/32307810_217826565487274_1940747716489379840_n.jpg
+Some of the SMD LEDs from @makersboxus SMD soldering challenge kit as seen under microscope.
+https://scontent-sit4-1.cdninstagram.com/vp/83d6dadb0befb4c6a5cd6d64e896af46/5B4EEA1B/t51.2885-15/e15/32385679_186938961961364_6141951585745371136_n.jpg
+Decided to have a go at SMD soldering again with the recent homebrew electronics kick I’ve been on. The SMD challenge by @makersboxus featuring an @oshpark perfect purple pcb seemed like a good place to start. Really neat kit. Got it working down to 0603, took a look at the 0402 components and decided that was a good place to stop for the night :-o
+https://scontent-sit4-1.cdninstagram.com/vp/e13b611c4203d0c9b4fcc073dad5d6e7/5BCA7C6D/t51.2885-15/e35/31326652_216989105698679_4085394534295404544_n.jpg
+Marine Advanced Technology Education (M.A.T.E.) competition today at FAU Henderson High School today. Pretty cool stuff, lots of inspiring students!
+https://scontent-sit4-1.cdninstagram.com/vp/9ca285263085f70116bd1ebe271f9c41/5BE060E9/t51.2885-15/e35/29740530_192076428240930_5754737941591097344_n.jpg
+Testing the #3dprinted #masterspool. Seems to be working well so far with some @pushplastic filament. I’m a fan of the reusable zip ties they ship with as well.
+https://scontent-sit4-1.cdninstagram.com/vp/5f59155cedf34d71fd65e9a2902914d2/5BE1B372/t51.2885-15/e35/30076950_995451123951638_1052023961090523136_n.jpg
+$5 repair kit and 5 minutes later, the 10+ year old Snap-On (@snapon_official) ratcheting screwdriver once again ratchets.
+https://scontent-sit4-1.cdninstagram.com/vp/9f43eb29b8bcfd32421f998bb2242748/5BE395F5/t51.2885-15/e35/30085532_206565123266735_7776568876782845952_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/5ab15c258ccd1b919581c44be39c640a/5BC59B92/t51.2885-15/e35/29403151_1013403578813192_3103404941293649920_n.jpg
+Unsure if watching robots or being watched by robots... awesome in either case. #southfloridaregional #omgrobots #sflfrc18
+https://scontent-sit4-1.cdninstagram.com/vp/7e80f38feefcf38c77fb8645b4e12da0/5BEB2E12/t51.2885-15/e35/29402286_174615843187852_5571893328305192960_n.jpg
+Annual “ain’t doin’ shit on my birthday” photographic proof for posterity, in case anyone accuses me of having done shit today.
+https://scontent-sit4-1.cdninstagram.com/vp/9fe8411f5b7d96dc4a9d23e027888dff/5BDB3307/t51.2885-15/e35/29095058_157111508288959_2627840641584857088_n.jpg
+Ruff life.
+https://scontent-sit4-1.cdninstagram.com/vp/b18e2b5ae04c2d1ed7bcf796ecf298c5/5BD8E720/t51.2885-15/e35/28436023_155204075188720_5896651366222266368_n.jpg
+Gummy bears from the Czech Republic! ... and a new #prusai3mk3 #3dprinter
+https://scontent-sit4-1.cdninstagram.com/vp/5d23e256e6ecc28aec4da8edc2df7c78/5BDFF088/t51.2885-15/e35/26870225_198491614072828_8900165933830504448_n.jpg
+Yosemite Falls
+https://scontent-sit4-1.cdninstagram.com/vp/b966a1e76033a3544e76f43fd16da644/5BD4E26A/t51.2885-15/e35/27879820_167466337232745_3406541418057957376_n.jpg
+Wow.
+https://scontent-sit4-1.cdninstagram.com/vp/9d6e439811b2e10da6caa085c17ecfe5/5BC8C6AD/t51.2885-15/e35/26869294_165821850720275_3079992778210410496_n.jpg
+Wooooo!
+https://scontent-sit4-1.cdninstagram.com/vp/3a748cc872ca4c7bcb90f389f0fd34ce/5BD08EAF/t51.2885-15/e35/27581951_1837469033217986_2076833630709088256_n.jpg
+Mugu beach.
+https://scontent-sit4-1.cdninstagram.com/vp/ed48a4ffacd80822bac3f25d1e898e81/5BEAAF9C/t51.2885-15/e35/26870959_322360211604375_441989410779561984_n.jpg
+Last day of #slas2018.
+https://scontent-sit4-1.cdninstagram.com/vp/1866664c9a74bb1baae5d508bd7419c0/5BCDA238/t51.2885-15/e35/27579820_953272861502143_4684726575860547584_n.jpg
+Awesome pre-presentation care/cookie package. Thanks @mm42087 !
+https://scontent-sit4-1.cdninstagram.com/vp/baf98e063a7de85e74d99d7211ede042/5BE2B665/t51.2885-15/e35/26868131_689329994524233_5586219423649234944_n.jpg
+Dear @berkeleypizza, We need to do this more often.
+https://scontent-sit4-1.cdninstagram.com/vp/2b1c791d710149a90bb37c9f61fd3986/5BE3FE1F/t51.2885-15/e35/26867480_329342590889799_4897420404399800320_n.jpg
+Somewhere over Texas.
+https://scontent-sit4-1.cdninstagram.com/vp/9ab93c2a292039def18f7018aa07cd19/5BD4A5B0/t51.2885-15/e35/26864864_1938923129703068_4428060369633673216_n.jpg
+Hi. Hihihihihihi. P.S. woof.
+https://scontent-sit4-1.cdninstagram.com/vp/58ea810d65c5439018f4acf5316ebf60/5BEC2E1F/t51.2885-15/e35/25019095_164837877598437_2702036244572930048_n.jpg
+It took me a second of amused thought trying to figure out when Space Shuttle Disco was launched. I also seem to always be a month behind on my calendars.
+https://scontent-sit4-1.cdninstagram.com/vp/132f24b1f6c15430bd6584e865e83d46/5BD0669D/t51.2885-15/e35/24177471_864717437043375_2135278124038881280_n.jpg
+Winter in Florida = discovering new places to eat outside for lunch.
+https://scontent-sit4-1.cdninstagram.com/vp/459be0ce5e2d0cc76bebea3f8ba7609d/5BE23C13/t51.2885-15/e35/23347780_1978425125759388_5318440311666507776_n.jpg
+Took me 36 years to discover that I️ liked hot sauce, but now I’m all in. I️ blame (thank) @firstwefeast and @seanseaevans for this. If you haven’t seen Hot Ones on YouTube, you should check it out.
+https://scontent-sit4-1.cdninstagram.com/vp/97e533c116c90b6538427d890148a8f5/5BC79A7B/t51.2885-15/e35/23161838_185129712043587_6324682086045188096_n.jpg
+Had a go at making naturally leavened (sourdough) pizza using recipe from @maurizio’s site. Resulting pies turned out better than any other scratch pizza I’ve ever made apart from @seriouseats Detroit Pizza which is a whole other beast. Terrific taste, thank you @maurizio ! Looking forward to continuing to work my way through your recipes. #pizza #theperfectloaf
+https://scontent-sit4-1.cdninstagram.com/vp/78212c45f9923c11eb881b39849c9845/5BE90398/t51.2885-15/e35/23161605_379344969189194_4179661292551798784_n.jpg
+Keep your 🍴, there’s 🥧!
+https://scontent-sit4-1.cdninstagram.com/vp/0713caf0107528663c3f3bbbdecfd1d1/5BEC9D64/t51.2885-15/e35/22794502_1070581533044588_8446302763838603264_n.jpg
+Homemade sliced apple dumplings via #kingarthurflour recipe. #omnomnom
+https://scontent-sit4-1.cdninstagram.com/vp/2f3c3c12a282d70afe261870f360cd15/5BE46886/t51.2885-15/e35/22638969_183874128850794_1050904344720834560_n.jpg
+Adding custom acrylic backlit LED sign to the project list. #orlandomakerfaire
+https://scontent-sit4-1.cdninstagram.com/vp/57080402288a3c96d4fe0320297b1efb/5BD911ED/t51.2885-15/e35/22802061_133994493915329_6775122106972635136_n.jpg
+All you have to do to make it work is push the button, turn the knob and connect the wire. Easy! #orlandomakerfaire
+https://scontent-sit4-1.cdninstagram.com/vp/632d09a64d3bd2ff12ef263547e621fe/5BCA5699/t51.2885-15/e35/22639230_1641456065905065_6632441541052858368_n.jpg
+Morty, Moooorty! Morty, they covered me in glaze. Then they put me in a kiln, brought me to Oktoberfest and filled me full of Hofbräu Dunkel and sang Sweet Caroline. We should do it again next year Morty!  Check it out Morty, Im beer stein Riiiiick!
+https://scontent-sit4-1.cdninstagram.com/vp/737832dd9120a0ad8b4808e21c269d91/5BC7B573/t51.2885-15/e35/22429669_1925052851152308_922278818759049216_n.jpg
+Hey Morty, Mooorty. *bbbrrrruuuuwwwrrppp*  Check it out Morty. I changed myself into a beer stein for Oktoberfest Morty! I’m beer stein Rick!
+https://scontent-sit4-1.cdninstagram.com/vp/06dccda11355de47efe5a16ff9101f5d/5BEB681D/t51.2885-15/e35/22344414_352854655174902_1588073361810915328_n.jpg
+Looks dry to me.
+https://scontent-sit4-1.cdninstagram.com/vp/780a195d9835fe95a5b573371e135c07/5BD1E601/t51.2885-15/e35/22158828_120878408598560_59346745699598336_n.jpg
+Cinnamon raisin sourdough from start to finish. Kind of neat to see how the swirls get into the dough via rolling a giant rectangle sheet of it up. #getinmybelly
+https://scontent-sit4-1.cdninstagram.com/vp/357a65c869b2428c66638e916b73eae8/5BD01D71/t51.2885-15/e35/22071346_123189628382231_7251560531310411776_n.jpg
+48 to 72 hour NY pizza dough with NYC pizza sauce recipes from #elementsofpizza #prettyprettyprettygood
+https://scontent-sit4-1.cdninstagram.com/vp/fccc73bd8ad5a3fb4de2952ead75fee1/5BD3009C/t51.2885-15/e35/21911246_518818441801307_6197151111023951872_n.jpg
+First time trying to make pretzels. They may look like dough droppings, but they’re surprisingly delicious. I will admit to slightly cheating and starting with a @kingarthurflour pretzel mix. Next time from scratch and with hopefully improved shaping technique.
+https://scontent-sit4-1.cdninstagram.com/vp/71c2ac2c85c084c23146c5ae5bf0f875/5BCD0F94/t51.2885-15/e35/21911465_1933500850247741_8379061838184185856_n.jpg
+Weekend bakeathon with FWSY’s “white bread with 80% biga” recipe. Made some tasty bread and pizza dough. #FWSY #flourwatersaltyeast
+https://scontent-sit4-1.cdninstagram.com/vp/34aade6d33f54840931d6bc5758798b2/5BDEA976/t51.2885-15/e35/21879084_1943519262576248_6082488850158977024_n.jpg
+First time I’ve seen a dog walking himself. Who’s a good boy? Yea, you are.
+https://scontent-sit4-1.cdninstagram.com/vp/fa3a213ad8d3abd430d615a848eaa1ae/5BD21369/t51.2885-15/e35/21689122_344797802636485_4954955206476431360_n.jpg
+It's Sunday. You know what that means. Yep, more experimenting with making pizza.
+https://scontent-sit4-1.cdninstagram.com/vp/091ffe6b38a385165824fdb887a97595/5BEA1BA2/t51.2885-15/e35/21827791_367887380307561_8726210279349682176_n.jpg
+Pizza night! First attempt to make pizza from scratch using the baking steel. Crust needs some work, but not a bad first pass. Curious to see it 00 flour makes a big difference next time.
+https://scontent-sit4-1.cdninstagram.com/vp/b5ff6fe2f23064f8689c32e2f66f2ac2/5BE009BB/t51.2885-15/e35/21436122_279209815918620_2202845042006032384_n.jpg
+We take our air guitar skills very seriously here in Florida, even during a hurricane. #hurricaneirma
+https://scontent-sit4-1.cdninstagram.com/vp/db03d73cdd9f4543e2a2264064c87b9d/5BD9268A/t51.2885-15/e35/21433887_114773445900049_1209228650411458560_n.jpg
+Bucket list item that I never knew I had: board up a house in Florida and write a rude message to the approaching storm. We had to dial back the level of rudeness as to not offend the neighbors and use a sharpie, but I think it still counts. #hurricaneirma
+https://scontent-sit4-1.cdninstagram.com/vp/622595aa163e5b5328839b24d0b80a67/5BCACE62/t51.2885-15/e35/21434182_115905865763133_3387155164044460032_n.jpg
+Gas?!? Jackpot!! #hurricaneirma
+https://scontent-sit4-1.cdninstagram.com/vp/03fee71f030b4a7e2e9155dd0c3e6d46/5BD14303/t51.2885-15/e35/21372561_1735875536713792_3615222660516020224_n.jpg
+Wood on the roof is the name of my #HurricaneIrma cover band. #PaulAndStorm #NoReallyPaulAndAHugeStorm
+https://scontent-sit4-1.cdninstagram.com/vp/cfa03a9b0957f84cd14cb855d57dd942/5BD6896C/t51.2885-15/e35/21373005_176943919544067_4778857819308818432_n.jpg
+All aboard the plywood express. Toot toot. #hurricaneirma
+https://scontent-sit4-1.cdninstagram.com/vp/8cce04fd900e9bb588cbef9e5896219e/5BCF9600/t51.2885-15/e35/21373708_162732244304626_1750071062835494912_n.jpg
+Props to Home Depot for having last minute supplies for helping to get folks boarded up. #hurricaneirma
+https://scontent-sit4-1.cdninstagram.com/vp/b307f0d20aa095f71175dc9c4b3fa669/5BC80C64/t51.2885-15/e35/21433670_511532139238992_6624838753154236416_n.jpg
+Here I am, rock me like a hurricane? 🎤🎸 Not a fan of this mornings updated track.
+https://scontent-sit4-1.cdninstagram.com/vp/14ab933a4de4ea111b5e83b81dff189c/5BCED310/t51.2885-15/e35/21371656_685900011609738_5285996184547098624_n.jpg
+Third attempt at sourdough from scratch finally turned out something I'm pretty happy about. This time though, I tried @maurizio's recipe for beginner sourdough and it turned out great. Thanks @maurizio, your website is awesome! Next up: sourdough pizza. #theperfectloaf
+https://scontent-sit4-1.cdninstagram.com/vp/59456aed96eaae51b40938a6da3208bb/5BEB6897/t51.2885-15/e35/20987447_1517717574953244_559622620782264320_n.jpg
+What the #2017eclipse looked like at 2:33pm, 2:47pm, 2:55pm and 3:01pm from Jupiter, FL. All times EST.
+https://scontent-sit4-1.cdninstagram.com/vp/d0e02ef73a92d5a72099236870e278ef/5BE62C09/t51.2885-15/e35/20905492_1405305606171849_7277415448453316608_n.jpg
+Eclipse as seen from Jupiter FL. Tripod shot at 250mm with a solar filter. #eclipse2017
+https://scontent-sit4-1.cdninstagram.com/vp/334782b541b3cd2114f3b37f68225e38/5BC918A6/t51.2885-15/e35/20686400_1271433349634782_1075250680370823168_n.jpg
+First time ever seeing a recipe describe the thing that needs mixing as 'goop': "Add 500g of whole wheat flour and 500g of 90F water to the goop in the tub and mix by hand until just incorporated." Goop. I mostly made this post to use the word #goop. I hope this goop turns into tasty bread. #fwsy #flourwatersaltyeast
+https://scontent-sit4-1.cdninstagram.com/vp/0bd9af753136204e5910f588067f33aa/5BD56F17/t51.2885-15/e35/20686881_1839862929662226_8107534224774397952_n.jpg
+Workin' on my pizza game. Detroit pizza #3. Got the bottom nice and crunchy this time. Taaaaasty. #detroitpizza #seriouseats #seriouseats🍕
+https://scontent-sit4-1.cdninstagram.com/vp/58bdb8ace027cc283f624c7bd9c7b75a/5BD7A49B/t51.2885-15/e35/19985619_318926758567352_7240818869642723328_n.jpg
+Finally picked up a copy of 'Flour Water Salt Yeast' and had a go at the Saturday loaf after seeing inspiring loaves on /r/breadit/ for quite some time. Pretty happy with result, learned quite a bit and it's rather tasty. Looking forward to trying the dough for pizza next. #fwsy #breadit
+https://scontent-sit4-1.cdninstagram.com/vp/66f8b865a350a27437d973acf644c2df/5BD73E86/t51.2885-15/e35/19623644_758002660991321_8243449834950885376_n.jpg
+@seriouseats Detroit pizza #2 is in the books. It was as tasty as the first attempt, but with @vtsmoke pepperoni this time. Two thumbs up again.  Need to work on finished pizza/crumb shots. #detroitpizza #seriouseats #seriouseats🍕
+https://scontent-sit4-1.cdninstagram.com/vp/dd6f6973e9bc4759933dca3cc24e8597/5BE2CAE8/t51.2885-15/e35/19429353_115217239091841_5574831893389508608_n.jpg
+Woof.
+https://scontent-sit4-1.cdninstagram.com/vp/a7523207ee7b57a6c5feeb45119de81d/5BE0E28E/t51.2885-15/e35/18889246_1550445871653980_578501377165099008_n.jpg
+Great show @trevornoah, thanks for coming to Palm Beach! 🌮
+https://scontent-sit4-1.cdninstagram.com/vp/8a2064d345cb972dc5627198e74f6131/5BC922BC/t51.2885-15/e35/18443890_1278692985572015_5433495961471025152_n.jpg
+Draw me like one of your French dogs. #floofAlert
+https://scontent-sit4-1.cdninstagram.com/vp/ea3849d684a408a56a6f53428e75d9a0/5BC68AC0/t51.2885-15/e35/18299454_1761911973825139_4638307273700016128_n.jpg
+Worst guard dog ever. Still, an effective pose for requesting belly rubs.
+https://scontent-sit4-1.cdninstagram.com/vp/1d85405dc3c419223b33963fffc0a4fd/5BE28CB1/t51.2885-15/e35/18299042_1277342528982416_5459709285044846592_n.jpg
+Decided to try #blueapron after years of hearing them advertise on nearly every podcast I listen to. Meal #1 (spiced beef pitas and garlic labneh) of 3 is in the bag and the verdict is: 👍👍
+https://scontent-sit4-1.cdninstagram.com/vp/a2c7b0fd164c7a0f98c2ea77969edeb2/5BE6827C/t51.2885-15/e35/18011306_1712651985699019_4296175968516571136_n.jpg
+BBQ is not everyday?
+https://scontent-sit4-1.cdninstagram.com/vp/240546d5371b263c17f5ed50b23e8305/5BD6196C/t51.2885-15/e35/18013675_214101529092505_5181634084186619904_n.jpg
+St. Louis ribs in St. Louis. Should have invited Lunchmoney Lewis to dine with me, would have been a hat trick.
+https://scontent-sit4-1.cdninstagram.com/vp/c195793bc8acc6c75c59261a6c250218/5BDCB455/t51.2885-15/e35/18095945_785308988301042_4141732608159514624_n.jpg
+Onward, to St. Louis.
+https://scontent-sit4-1.cdninstagram.com/vp/45043327c54401d7ad36373d75e89d97/5BCE705C/t51.2885-15/e35/18095416_1869491496624040_5024090771054133248_n.jpg
+Floof update, day 7: still trying to figure out how to sit on a couch. #floofalert
+https://scontent-sit4-1.cdninstagram.com/vp/c309da74944979ead312677e37d4ffa9/5BDAE6DA/t51.2885-15/e35/17934687_1831937887067877_1262390656089718784_n.jpg
+New floof is all floofed out after a heavy day of floofing.
+https://scontent-sit4-1.cdninstagram.com/vp/971db97ed2157cda72305a6eeab0253a/5BC61997/t51.2885-15/e35/17934709_1753607028284704_993106793724903424_n.jpg
+First attempt at @kenjilopezalt's Detroit style pizza. Quite tasty. Bonus crumb shot. #detroitpizza #seriouseats
+https://scontent-sit4-1.cdninstagram.com/vp/e5a6de2c38beac595458255089f5a18b/5BDC9E9C/t51.2885-15/e35/17596146_1751429485169936_3973182840035606528_n.jpg
+Got to try Risk Legacy last night. Didn't win either of the two games, but I did get to permanently rename Venezuela to South Canada and Eastern United States to 'PlzDontAttack'. #tabletop #risklegacy
+https://scontent-sit4-1.cdninstagram.com/vp/50fbff4a8c61ca83acff6e0256ca7933/5BE41D89/t51.2885-15/e35/17267673_777612739062094_6536007795701972992_n.jpg
+♫ I don't do shit, that's my decision. Not doin' shit is like my religion. I look to the East 5 times a day and if I'm doin' shit, then I put it away. ♫ -Crudbump #birthdayPhilosophy
+https://scontent-sit4-1.cdninstagram.com/vp/12f09de6e6625bc2f434a6ae5865dc04/5BD4B4FF/t51.2885-15/e35/16906200_1406433702740076_6937870628410097664_n.jpg
+2017 FIRST South Florida Regional competition #sflfrc17
+https://scontent-sit4-1.cdninstagram.com/vp/7d18cd1852fa0948ef72e69fe3be600c/5BC5F996/t51.2885-15/e35/16464068_790726961084545_7510127307810406400_n.jpg
+MacArthur Beach State Park on approach to PBI
+https://scontent-sit4-1.cdninstagram.com/vp/4bc05584cc28cb405e5ddff90258f082/5BCD30FC/t51.2885-15/e35/16585297_1414182408601734_1670021844624736256_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/f32381c68e24d4b0453799f08f40b73c/5BD481AE/t51.2885-15/e35/16464197_1623419951301268_4816070549832728576_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/19f005c10fd99b5e891c78680f511c06/5BD0C6F4/t51.2885-15/e35/16583235_192619637883485_2760481605486116864_n.jpg
+❤ DC Metro
+https://scontent-sit4-1.cdninstagram.com/vp/b9a33a35658e13e4dd7e7f41d74f4577/5BDDC15C/t51.2885-15/e35/16463929_1809370802658012_647503003187675136_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/ccef514f2d971e776a269df86815411d/5BCA6377/t51.2885-15/e35/16464231_1389453557742641_7661625883970502656_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/4a8e46ad3d6ab8972d84c39c506dd439/5BE0BF2F/t51.2885-15/e35/16230804_1905459259669380_6995852639661457408_n.jpg
+<<unintelligible happy grunting sounds>> #spicymeatballpizza
+https://scontent-sit4-1.cdninstagram.com/vp/c72d7489464c499a11b7ac50c97f08d4/5BE67D2E/t51.2885-15/e35/16124084_612170182314923_8916008685205979136_n.jpg
+🇺🇸 We have arrived in the glorious Capitol state of Vermont. In the foreground, you can see the maple syrup producers monument. #alternativefacts
+https://scontent-sit4-1.cdninstagram.com/vp/46716fbc6f5d64d5df3f99bd1ca08e6e/5BC9F9D9/t51.2885-15/e35/16464826_1732170953765710_6306422075535917056_n.jpg
+Air Force One or Hair Force One?
+https://scontent-sit4-1.cdninstagram.com/vp/3cf4fce31adc972c2ed066960b89a124/5BD29A5F/t51.2885-15/e35/15875876_171232336691766_4461610648400297984_n.jpg
+Hulk smash. But Hulk also fix. #htcvive #virtualreality
+https://scontent-sit4-1.cdninstagram.com/vp/2da3c319128fb048ecfdba0f6bd6cb4c/5BC82167/t51.2885-15/e35/15877521_1849241645350295_7782192298938335232_n.jpg
+According to @ogemarques, it's beer o'clock. Agreed.
+https://scontent-sit4-1.cdninstagram.com/vp/f2af21ac7c729ddfcc04c4760b237bb7/5BC89639/t51.2885-15/e35/15876728_1793668944229978_3634060812278038528_n.jpg
+Game night: Pandemic Iberia #tabletop
+https://scontent-sit4-1.cdninstagram.com/vp/4b2a9a1299b0033abc67ba4dd4ab1256/5BD127CC/t51.2885-15/e35/13534488_1188462854542983_4954854029931839488_n.jpg
+Hey Instagram, lets make some pasta!
+https://scontent-sit4-1.cdninstagram.com/vp/1fb5a5ce0dc0ba793265715ce704b7af/5BE9CAF9/t51.2885-15/e35/15624998_1824911741085394_3486422660097769472_n.jpg
+Apple's claim of waterproofing for the iPhone seems valid after inadvertently getting tested twice today. A++, would submerge again.
+https://scontent-sit4-1.cdninstagram.com/vp/324094e4533f6ed1e859df5bdc7992b9/5BDCEB35/t51.2885-15/e35/15539094_1805411249746941_1237041428396244992_n.jpg
+Stopped by @accomplicebrewery with @mm42087 to try their limited release holiday batch of Sidewinder Triple. 13% ABV, tastes like cinnamon and apple candy. Delicious.
+https://scontent-sit4-1.cdninstagram.com/vp/829eab4f3ba16278d68278f5b276d622/5BCDC17A/t51.2885-15/e35/15403485_225928214484004_8440267248160997376_n.jpg
+Cup or a bowl?
+https://scontent-sit4-1.cdninstagram.com/vp/8117eaa1a45145dad25ad50e8e14a4ed/5BDB4FD7/t51.2885-15/e35/15338301_1701472323499867_8499312783509159936_n.jpg
+Cider flight: pineapple, cinnamon, dry Irish, dark, "Mamey Dearest", mango, cherry and "Mora madness". Cinnamon is the winner for me.
+https://scontent-sit4-1.cdninstagram.com/vp/494958c5e871deffa90bb6b505bbc255/5BE9BBE5/t51.2885-15/e35/15034881_603691173167519_598444289004929024_n.jpg
+Pierre's punch
+https://scontent-sit4-1.cdninstagram.com/vp/f57e23174cc32b72f342ab906e969576/5BCE6A7C/t51.2885-15/e35/15043510_1731804413808657_4457896880373760_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/7238232616245f5ddc11904643887d18/5BCB3D43/t51.2885-15/e35/15035097_1287705007942039_4418771880085815296_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/19cd0b53f3ad18a7e0f3b564ed5a1c83/5BEA0F19/t51.2885-15/e35/15043644_1218978491510687_3314364672492175360_n.jpg
+It's 5 o'clock somewhere.
+https://scontent-sit4-1.cdninstagram.com/vp/a86f5f7e3ac7c3836ca0860bb43db89c/5BE341CD/t51.2885-15/e35/14624213_1865113100400263_5469861728739131392_n.jpg
+Let's do this. #election2016
+https://scontent-sit4-1.cdninstagram.com/vp/f6cd5095240718b7f86b53607a19266a/5BD83926/t51.2885-15/e35/14705169_318374788541537_7246792542086234112_n.jpg
+100% meatball #nasa
+https://scontent-sit4-1.cdninstagram.com/vp/ed7c2d911b7195e37869d4fe76524d29/5BC63DF3/t51.2885-15/e35/14714607_1774463999472806_359286675873988608_n.jpg
+Neat to see SpaceX at Pad 39a.
+https://scontent-sit4-1.cdninstagram.com/vp/b06e0a045a95418cf7c7b07c54a92c71/5BD93600/t51.2885-15/e35/14726174_202414413527644_6761972093933322240_n.jpg
+Was hoping the sticker would say 'I Rigged' this year. Oh well.
+https://scontent-sit4-1.cdninstagram.com/vp/329d77f43382391a08b1d6a8c11f9ad9/5BE423AB/t51.2885-15/e35/14488087_887805834696320_3446267541968650240_n.jpg
+Chicago Riverwalk
+https://scontent-sit4-1.cdninstagram.com/vp/df0bc255295bbab975cce65bfb78a657/5BEC7E21/t51.2885-15/e35/14561995_1088960327865742_4181414201849282560_n.jpg
+Anticipated power outages, eh? Time to start pulling the classics out of long term storage.
+https://scontent-sit4-1.cdninstagram.com/vp/672a49bf3616208b032f51db05a5ab76/5BEA42DF/t51.2885-15/e35/14294713_978285512293278_2093050023_n.jpg
+Welcome to Canada!
+https://scontent-sit4-1.cdninstagram.com/vp/e8e89a3f198ce83630524abb1fe03e28/5BD1D11E/t51.2885-15/e35/13768264_1937524203147122_481341984_n.jpg
+Well thats a sign you don't see every day.
+https://scontent-sit4-1.cdninstagram.com/vp/4fd17bdb498820b67cd3b39f16f1473e/5BCCD79E/t51.2885-15/e35/13739518_1237099606323721_1629817767_n.jpg
+Unsure if terminal crimping device or Tyrannosaurus Rex, please advise. #rawr
+https://scontent-sit4-1.cdninstagram.com/vp/c4b07df326d22a8d2eb66c712a7a3146/5BC7FCA4/t51.2885-15/e35/13722060_1567496030212916_656844123_n.jpg
+For a brief moment, I was really excited about a GIF shop until I realized the T was just faded. (w/@mm42087)
+https://scontent-sit4-1.cdninstagram.com/vp/6b4e7ffa5945cc715ee177c81f385b45/5BEAE62F/t51.2885-15/e35/13248747_100849590337430_1883763811_n.jpg
+... and the winner of the 'most representative Palm Beach' billboard goes to:
+https://scontent-sit4-1.cdninstagram.com/vp/648667c118c0ff360c25517370d64aed/5BD43A6C/t51.2885-15/e35/12965235_631981326968235_1324179304_n.jpg
+Let's paint some happy little clouds... #bobross
+https://scontent-sit4-1.cdninstagram.com/vp/2bc741c17c10a1ddf75e5950c26a14a8/5BD88C64/t51.2885-15/e35/11417433_1731671693786795_28652424_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/7c24ca8a500829a108c715fb9a10d4c2/5BDFFC28/t51.2885-15/e35/12424415_251482398521041_1473386291_n.jpg
+Instagram pizza battle with @mm42087.
+https://scontent-sit4-1.cdninstagram.com/vp/0a2aa1eb03c05c59763bbd2fccf72927/5BD963F1/t51.2885-15/e35/917303_1758129761075881_168067051_n.jpg
+Dining room table has been temporarily repurposed as an @etsy order packing and shipping station. @meeplejuice also got its 100th Etsy order last week! #tabletop
+https://scontent-sit4-1.cdninstagram.com/vp/26f7cd86ee196be3aba3147389a17b2d/5BD5B377/t51.2885-15/e35/12783983_1684241725181523_1616446608_n.jpg
+Marco Polo #tabletop
+https://scontent-sit4-1.cdninstagram.com/vp/8a3833682d52bad29088e4dd7ec287c8/5BCEC1DA/t51.2885-15/e35/12407633_1693823004190925_1371427825_n.jpg
+Bonsai tree: week 3
+https://scontent-sit4-1.cdninstagram.com/vp/dacb5f63ff1eb09cc880943df1602f8c/5BE72AF2/t51.2885-15/e35/12816837_1109079462475500_510700879_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/ed6c85a4e81a2817548d97f1fc6a654e/5BD245B1/t51.2885-15/e35/12822381_974185656007608_1970805580_n.jpg
+Industrial robot and 3D printers at the mall for the annual Scripps Science Education Saturday.
+https://scontent-sit4-1.cdninstagram.com/vp/936886d7751830c46faf1bee4d67f438/5BD29B59/t51.2885-15/e35/12825788_1200591699958478_514608804_n.jpg
+#3Dprinted a green fluorescent protein for this Saturday's Scripps Florida education outreach event. Thingiverse thing # 193188.
+https://scontent-sit4-1.cdninstagram.com/vp/8617a1b993925f6b81018477265787c3/5BDB2363/t51.2885-15/e35/12716713_221922938156455_812401659_n.jpg
+Bonsai tree: week 1
+https://scontent-sit4-1.cdninstagram.com/vp/b9441fd62a5b0ff657659eda70bbbda4/5BCBEDC0/t51.2885-15/e35/12627989_1791214387777629_1240579645_n.jpg
+Drove across the state to volunteer as a judge and spend a day watching kids make drivable robots do crazy stuff like pull-ups. #firstrobotics #omgrobots
+https://scontent-sit4-1.cdninstagram.com/vp/9f0d39674321521978048b489030fb85/5BC89356/t51.2885-15/e35/12446188_991645690908920_322899619_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/584426a526624ef4a4330825857866f2/5BE3BC56/t51.2885-15/e35/12558350_1523761044584449_894933657_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/91fc78cf94115285c052c9ef1bd833e6/5BDBD245/t51.2885-15/e35/12568334_953876704705824_592015895_n.jpg
+Meep meep.
+https://scontent-sit4-1.cdninstagram.com/vp/3fb0559cfed21f73d26c389525b6117a/5BC9FDFD/t51.2885-15/e35/12424840_950558178370061_896109244_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/e1427d5a0c40feed80a95d94e7ee6d0c/5BE2F6E8/t51.2885-15/e35/12552208_1506990446273193_581543258_n.jpg
+Hoover Dam
+https://scontent-sit4-1.cdninstagram.com/vp/8a6616901fa886937cca1229e071725d/5BD0DDBC/t51.2885-15/e35/12446040_1679398759008013_1535094367_n.jpg
+The Cattle Expo had better conference badge flair than #slas2016 had. I may have liberated one. #beefmeet
+https://scontent-sit4-1.cdninstagram.com/vp/f25d3a0a1523767367caf9078b345a90/5BEC969B/t51.2885-15/e35/12558564_1512215292406749_231786565_n.jpg
+Ordered a Storm Trooper. Drink came in a 200mL beaker with a free lotto ticket. Won $1. Voted awesome. I now have a favorite bar in San Diego.
+https://scontent-sit4-1.cdninstagram.com/vp/3cb596b7aec53b4efa166b6100b3eb9b/5BE55CBC/t51.2885-15/e35/12424719_1778605792362184_991611382_n.jpg
+Seems legit.
+https://scontent-sit4-1.cdninstagram.com/vp/51675b814d9b8df57b07ce03c685d3a9/5BCE845A/t51.2885-15/e35/12383300_884384031677481_256012876_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/2ab974922f2e3c54d8425de9f5deac2e/5BCA4613/t51.2885-15/e35/12393662_1054900521228647_160144171_n.jpg
+Tested the Rostock Max v2 build volume last night with a large twisted vase measuring 260mm x 260mm x 360mm (10.2" x 10.2" x 14.2"). Quite impressed with the result. #3dprinting #seemecnc #bananaforscale
+https://scontent-sit4-1.cdninstagram.com/vp/1e07d5ba42cbc1ac1b39af4fdff1551d/5BEB98CA/t51.2885-15/e35/12362591_332492726874369_26590231_n.jpg
+Spring (winter?) cleaning means some kid is about to hit the jackpot at Goodwill.
+https://scontent-sit4-1.cdninstagram.com/vp/7ca4474f1571d8dc25b815a1608b226e/5BC9FE18/t51.2885-15/e35/10957230_1675762125997719_1249350521_n.jpg
+Learning Lanterns, fun game. #tabletop
+https://scontent-sit4-1.cdninstagram.com/vp/e14562741b1ae11b9dc425c5b5bd0755/5BCD8D27/t51.2885-15/e35/12357909_1529062337414290_222210625_n.jpg
+It's starting to look like a 3D printer... next up: wiring. #seemecnc #3dprinting
+https://scontent-sit4-1.cdninstagram.com/vp/cc39e84122203375968c68ee95d0dd47/5BDD2440/t51.2885-15/e35/12317466_110065636029204_282975466_n.jpg
+Hey, no power walking! (w/@mm42087) #latergram
+https://scontent-sit4-1.cdninstagram.com/vp/37eec748c63d8f38c210bc49771a0c77/5BC53F39/t51.2885-15/e35/12277026_439446326239658_1421401714_n.jpg
+Nature walk w/@mm42087.
+https://scontent-sit4-1.cdninstagram.com/vp/2bfc0357ed24f82f6ebb76c6ae911df9/5BD32ED8/t51.2885-15/e35/12269800_972050366164047_728213448_n.jpg
+Yo quiero tequila. (w/@mm42087) #latergram
+https://scontent-sit4-1.cdninstagram.com/vp/138257e4238b0f6933d9f8f6a68fe25b/5BD18D7E/t51.2885-15/e35/12132719_855644647868211_392326518_n.jpg
+Adios, Mexico! (w/@mm42087)
+https://scontent-sit4-1.cdninstagram.com/vp/292082f66c212a5c359e5e3419b6673e/5BDC1D15/t51.2885-15/e35/12093595_190912637914713_101001890_n.jpg
+A little further to the right.... fire! (w/@mm42087)
+https://scontent-sit4-1.cdninstagram.com/vp/7882868e577be0a14bbf6cbf6795827e/5BDA2B2D/t51.2885-15/e35/12063082_982423581820008_1017608968_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/dcaa9e8455e825453966efce70cc0891/5BDB208E/t51.2885-15/e35/11809926_1080631658615983_1251413690_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/7a7e8053dc11c84e2d8e2b372eeedd54/5BD5BD19/t51.2885-15/e35/11917994_999627460082908_1794600344_n.jpg
+There are plenty of interesting cars to be seen driving around South Florida, but this is a first.
+https://scontent-sit4-1.cdninstagram.com/vp/c444c8b8c49f057aab6e80fd414a6575/5BE1EEE4/t51.2885-15/e35/12081045_1512822755696231_1806786748_n.jpg
+Halloween gaming? Time to play Midnight Party, look out for Hugo! #tabletop
+https://scontent-sit4-1.cdninstagram.com/vp/ad419783cf01a08c9b906dc05321d540/5BD82F22/t51.2885-15/e35/12105120_1656574067934841_937256293_n.jpg
+Brake override.
+https://scontent-sit4-1.cdninstagram.com/vp/800e2e686397c1b8ddccc003ca88e507/5BC7F09D/t51.2885-15/e35/12142181_1537893469766463_1326320754_n.jpg
+Truth in advertising.
+https://scontent-sit4-1.cdninstagram.com/vp/55b4ee01228192892649a2f7186e3fdf/5BCD1C70/t51.2885-15/e35/12080564_977797185614988_2048921505_n.jpg
+Building lobby: where old robots go when they are retired.
+https://scontent-sit4-1.cdninstagram.com/vp/ae69442d672dec5452766536bbd6cb39/5BE74303/t51.2885-15/e35/11311468_822508137846750_1732659195_n.jpg
+Red button labeled TEST on a machine that contains a laser? Must push button. #pewpew (w/@mm42087)
+https://scontent-sit4-1.cdninstagram.com/vp/4199365f98453e618d225ecc6ecefbaf/5BE0D1F0/t51.2885-15/e35/11856791_171119236558165_246335037_n.jpg
+The fire stein.
+https://scontent-sit4-1.cdninstagram.com/vp/19e36ff1a540ec121f1afb5730a9481a/5BC64C4C/t51.2885-15/e35/11906126_1177351385614014_1529498037_n.jpg
+Visited @ihotglass tonight and followed the instructions on my shirt.
+https://scontent-sit4-1.cdninstagram.com/vp/9b04f7410b162e4f895bd4a7263e02c7/5BD0C446/t51.2885-15/e35/11906294_516697248485547_475892515_n.jpg
+Makey made from 8 pounds of chocolate. #orlandomakerfaire
+https://scontent-sit4-1.cdninstagram.com/vp/7756318ad4118da51ef20b1125ee471c/5BD98A85/t51.2885-15/e35/11849390_1067938649884187_1433017761_n.jpg
+Banana for scale? #orlandomakerfaire
+https://scontent-sit4-1.cdninstagram.com/vp/90248be9047f59260e6eec76790f1027/5BDF7AB7/t51.2885-15/e35/11821724_462355330610340_970092879_n.jpg
+Quadrotor made out of #lego at #orlandomakerfaire
+https://scontent-sit4-1.cdninstagram.com/vp/1e36118228250654501c075215291599/5BDFF1CE/t51.2885-15/e35/1799831_407950166062431_1002017395_n.jpg
+Home is where the brick is. #orlandomakerfaire
+https://scontent-sit4-1.cdninstagram.com/vp/cd52f59303f124fa7f6b0e5b89ea3595/5BEAC28A/t51.2885-15/e35/11849264_425551594303661_952589691_n.jpg
+Makey at the #orlandomakerfaire
+https://scontent-sit4-1.cdninstagram.com/vp/5a2e243f0cf3b07e37d5234285751b70/5BCADD64/t51.2885-15/e35/11334397_167570316912764_647953227_n.jpg
+Made a new stamp to use at work. #robotapproved
+https://scontent-sit4-1.cdninstagram.com/vp/6fb8397dd1f025252b3fec77cfc85a58/5BCD1D80/t51.2885-15/e35/11950752_947970478558435_1948877669_n.jpg
+Banana!
+https://scontent-sit4-1.cdninstagram.com/vp/e164fdee425851666ba0dc36421d7c5a/5BD9D068/t51.2885-15/e35/11821710_1492062734425931_1913379941_n.jpg
+My first custom PCBs arrived today from @oshpark! Probably more excited about this than I should be. #oshpark #arduino #123dcircuits
+https://scontent-sit4-1.cdninstagram.com/vp/20f313d27351018330758e005a097806/5BCAFC09/t51.2885-15/e35/11849017_587967764688876_673563144_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/9816fa7b02bf1db0a9b43f19d99bbeae/5BD468DD/t51.2885-15/e35/11881830_740361422753808_46909958_n.jpg
+Castles of Mad King Ludwig, Alhambra and Glass Road for #tabletop night. All quite enjoyable.
+https://scontent-sit4-1.cdninstagram.com/vp/67bd077b7de55a9ce5a47537e66cc98f/5BCB697A/t51.2885-15/e35/11848978_849381338473160_977682804_n.jpg
+Weird Al (@alfredyankovic). Still one of the most entertaining live shows I've seen. #wordcrimes (w/@mm42087)
+https://scontent-sit4-1.cdninstagram.com/vp/a5383c441c34965e7f4fe1391fc98262/5BE0B035/t51.2885-15/e35/11820708_105427286474568_1463310163_n.jpg
+Star Wars: Armada... a.k.a. Space ship demolition derby when I play it, as @14to9 found out last night. #tabletop #rammingspeed
+https://scontent-sit4-1.cdninstagram.com/vp/fc3b8833cad152ff166384dc23ce2bb6/5BCFE207/t51.2885-15/e35/11809530_1618678155016145_242067145_n.jpg
+This is what getting completely destroyed at Brewcrafters looks like. Still an enjoyable play through though. #tabletop
+https://scontent-sit4-1.cdninstagram.com/vp/e7314644be12117a7b518088c55159a2/5BD55A92/t51.2885-15/e35/11255375_1632097693674104_2143812046_n.jpg
+Got to try out Glass Road tonight. Plays quick and pretty fun. Using the dials to track resources in game is very clever as well. #tabletop
+https://scontent-sit4-1.cdninstagram.com/vp/1bcfce70a2516214d9c5e9519ce87866/5BD22826/t51.2885-15/e35/11375152_1690234237873085_1172409580_n.jpg
+Goofing around with moldable foam to create custom stamps from #3dprinted designs for outbound Etsy packages. Pretty neat. Still need to work on the technique.
+https://scontent-sit4-1.cdninstagram.com/vp/1cac2a8242432c824413104ba55b3b1c/5BCF38FB/t51.2885-15/e35/1723506_493971410784598_1247710770_n.jpg
+It was time to service the 14 year old Kitchenaid. Thanks to a YouTube howto and $14 of grease on Amazon, it's just like new one hour later.
+https://scontent-sit4-1.cdninstagram.com/vp/e8d6ff64bd13ae65dc924330b9d41075/5BDC925D/t51.2885-15/e35/11356877_384704991734107_1884764118_n.jpg
+Got tired of my @beziergames Night Ultimate Werewolf game components being disorganized across two boxes, so I made a #3dprinted game insert that fits in the original game box and holds the base game plus expansion. It can be found on Thingiverse as thing 913999. #tabletop
+https://scontent-sit4-1.cdninstagram.com/vp/e37d030c00f5e9953ea4e6a72893bb68/5BCFA246/t51.2885-15/e35/11425575_498969103593193_1387017857_n.jpg
+Putt putt.
+https://scontent-sit4-1.cdninstagram.com/vp/2cbb42e141af40fe57779d291690d329/5BD9E013/t51.2885-15/e15/11378889_498146400337069_1742692075_n.jpg
+Vermont whole wheat oatmeal honey bread (recipe via @kingarthurflour). Haven't made bread from scratch in years. Kitchen smells pretty awesome.
+https://scontent-sit4-1.cdninstagram.com/vp/17932a95dd6ba8f0dd1245fce9d42fc6/5BCD7100/t51.2885-15/e15/11330738_458344290992907_1408189779_n.jpg
+Mission Control Houston, this is Orbital slipper 1. Requesting permission to commence full recline.
+https://scontent-sit4-1.cdninstagram.com/vp/4ae4b5b7e1df1b582758e991fc25cf29/5BD83FE3/t51.2885-15/e15/11427388_813826102046960_2095824009_n.jpg
+An old monitor at work with a 75mm VESA mount died, but all our replacement monitors have VESA 100mm mounts. One #thingiverse download, 2 hours and a bit of ABS later, problem solved. #3dprinting #functionalprint
+https://scontent-sit4-1.cdninstagram.com/vp/0cddcf10f82a633b8395db317830a6d8/5BE31680/t51.2885-15/e15/11334486_298021943655218_566941543_n.jpg
+This is what a new robot looks like... right before the servos power on, it smashes out of the box and chases you down the street.
+https://scontent-sit4-1.cdninstagram.com/vp/e2bb3075bde16b076f62b0b9b44ece3f/5BD287BE/t51.2885-15/e15/11356477_1455392038093313_2007653611_n.jpg
+Only the very best GIFs make it past this stage of filtration.
+https://scontent-sit4-1.cdninstagram.com/vp/8e33adf42984cb4921cff706aefdbb35/5BE55AEC/t51.2885-15/e15/11312322_884016378335410_905958585_n.jpg
+Pizza from scratch. Easier than expected and delicious. (w/@edugator487)
+https://scontent-sit4-1.cdninstagram.com/vp/1ab8909579b94bdffce8d4c404a54ecd/5BD263D5/t51.2885-15/e15/11264236_718025884986583_1360335134_n.jpg
+I call this... a grocery wrist? #PunsThatWorkBetterSaidAloud #wunderlist @wunderlist
+https://scontent-sit4-1.cdninstagram.com/vp/223b5f088974e926d03dd86744d2450f/5BC7382E/t51.2885-15/e15/11330671_444327845744960_487324420_n.jpg
+Had to wait 3 weeks past launch for the black stainless models to start shipping, but it arrived today and was worth the wait. #unboxing #applewatch
+https://scontent-sit4-1.cdninstagram.com/vp/5a657e915d9647b5131d155c10c8c78b/5BDE1447/t51.2885-15/e15/11246537_1668371386724618_718415043_n.jpg
+Forgot to set parking brake or just decided to park in the middle?
+https://scontent-sit4-1.cdninstagram.com/vp/eabb463b2ae7f575961b09f6ece8e98f/5BDC9F26/t51.2885-15/e15/11250230_888820694508803_1533433557_n.jpg
+Red7 lessons learned from @14to9 at #scrankycon live on as the game enters the lunchtime rotation. #tabletop
+https://scontent-sit4-1.cdninstagram.com/vp/3346fed5387963c6316b0733265f392f/5BDB1C68/t51.2885-15/e15/11190943_877389592319649_1712443556_n.jpg
+I didn't expect a game about NASCAR to be as hilarious as it was, or for it to last 4 hours. 100% worth it, would git-r-done again. #tabletop #scrankycon #thunderalley
+https://scontent-sit4-1.cdninstagram.com/vp/9c662ea35eed1cb8115df9d7d84c88d9/5BC6297D/t51.2885-15/e15/11192595_445167475646462_481191064_n.jpg
+Got a chance to try Five Tribes last night, quite fun. I'm a fan of the mancala mechanic, which also probably explains why I like Istanbul as well. #tabletop
+https://scontent-sit4-1.cdninstagram.com/vp/31b09503ea67fe6ef920332deb9108cc/5BCFD3EF/t51.2885-15/e15/10731544_845940328812729_1964944500_n.jpg
+Second patent published today. Happy to see Epic Smiley emoticon still hanging out in the official figures.
+https://scontent-sit4-1.cdninstagram.com/vp/50e9eed5013698da596f926fdad1a794/5BD36E5E/t51.2885-15/e15/11085153_958366167518721_1660889992_n.jpg
+Designed a #3dprinted organizer for @idwgames Machi Koro, it's now posted on Thingiverse. Game is now much more portable. #tabletop #tabletopday
+https://scontent-sit4-1.cdninstagram.com/vp/134803dc1a28c9da78a77e7d59b796f4/5BCADFB4/t51.2885-15/e15/11078753_1429798443983761_580686734_n.jpg
+GoT for #tabletopday
+https://scontent-sit4-1.cdninstagram.com/vp/a16c63cabda7484d279655194b2c3171/5BC5427C/t51.2885-15/e15/1527632_1101926623166264_1223509061_n.jpg
+... and to think a few years ago I was vehemently against owning any Apple products. I blame @chophaus for this addiction.
+https://scontent-sit4-1.cdninstagram.com/vp/64c0435e95f59a5b8737be531283ab85/5BC945C7/t51.2885-15/e15/11056018_1579519755645893_1447912989_n.jpg
+Lunchtime Saboteur. #tabletop
+https://scontent-sit4-1.cdninstagram.com/vp/f952a809f0fbfc33a6163250d1220afe/5BDAA2DD/t51.2885-15/e15/11117100_1563023727297176_1589242138_n.jpg
+It didn't take long for @14to9's Tie Fighter squad to catch up with the Millennium Falcon and turn it into space debris <sad trombone>. #tabletop #xwing
+https://scontent-sit4-1.cdninstagram.com/vp/a2462826c21c89b71da1390b7bc45799/5BD6032B/t51.2885-15/e15/11093025_1575096092728457_1952827771_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/dba7c51d05b2cb22af1553ec19f41ebb/5BC9D529/t51.2885-15/e15/10949075_1424525924509902_1380294328_n.jpg
+Strawberry, blueberry and apple are already a step too far, but tropical syrup? C'mon now.
+https://scontent-sit4-1.cdninstagram.com/vp/21441163b04b3d61a93ccfc61e702282/5BDF8C23/t51.2885-15/e15/10666163_1580053428947112_1208322132_n.jpg
+You're never too old to have epic space battles with Star Wars miniatures, right? Episode IV soundtrack may or may not have been playing in the background.  #tabletop #pewpewpew #x-wing
+https://scontent-sit4-1.cdninstagram.com/vp/6c81bb36146bdc731240929489c17118/5BCDF685/t51.2885-15/e15/11017573_826994860682361_270554569_n.jpg
+Monorail over Spaceship Earth. #latergram (w/@edugator487)
+https://scontent-sit4-1.cdninstagram.com/vp/12dfae2ee3ef016a99626dc153b315ba/5BEC320B/t51.2885-15/e15/10553976_1624131831142219_759125104_n.jpg
+Fin. (w/@edugator487)
+https://scontent-sit4-1.cdninstagram.com/vp/d123fc535a3efeb122e7be0b0ce2d367/5BE2F0FA/t51.2885-15/e15/11008235_356312121239526_1089607329_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/fcd85e8c03ae901e6d6bb4aeef5209dd/5BCE9021/t51.2885-15/e15/1724445_957659300924902_392557719_n.jpg
+
+https://scontent-sit4-1.cdninstagram.com/vp/ecfe02ec2d784e479e976c5f76e01684/5BD8F848/t51.2885-15/e15/11007816_1563821760550822_1237278084_n.jpg
+Epcot Flower and Garden festival. (w/@edugator487)
+https://scontent-sit4-1.cdninstagram.com/vp/16fb2e1069568a80703f6002c24235a7/5BEC62E6/t51.2885-15/e15/11055916_1564129237194898_1706710577_n.jpg
+Mono Monorail. (w/@edugator487)
+https://scontent-sit4-1.cdninstagram.com/vp/2faab9716e79d942fdaa7dccc7eeb3d9/5BCA5607/t51.2885-15/e15/11007836_943852038979126_1554710736_n.jpg
+Best ride at Disney? (w/@edugator487)
+https://scontent-sit4-1.cdninstagram.com/vp/7b8a8ed6fdeadc4856ff75454a9f9a9b/5BCAC3CB/t51.2885-15/e15/11023166_864186266956725_609169042_n.jpg
+<Heisenberg> Let's cook. </Heisenberg> (w/@edugator487)
+https://scontent-sit4-1.cdninstagram.com/vp/f46173c1a4f2a0ce4b5029e11800e55b/5BD1CCEC/t51.2885-15/e15/11007817_1547782182171717_603457127_n.jpg
+Sunday at 11am and I just discover this book for the first time... pretty sure that's a sign. (w/@edugator487)
+https://scontent-sit4-1.cdninstagram.com/vp/86a7d21677bdd60d614fdaea6e4c0784/5BE350D7/t51.2885-15/e15/11018351_908571989193527_212448148_n.jpg
+After more than 5 plays, we're still yet to win a game of Pandemic: The Cure. #tabletop #latergram
+https://scontent-sit4-1.cdninstagram.com/vp/69cff8e3e2e9a4733ee467d3dc36574f/5BD70DE9/t51.2885-15/e15/11032923_875856485793224_1648264992_n.jpg
+It turns out that the cartridge heater working its way loose from the heating block is not a good thing. It melts all the things! #3dprinting
+https://scontent-sit4-1.cdninstagram.com/vp/72b05fa80a08dbb21acf2d326ea3c37d/5BE64E02/t51.2885-15/e15/11049318_921403774566448_969217509_n.jpg
+Got to try out Coup Guatemala 1954 at lunch. Pretty good Coup variant, looking forward to playing with some of the other role cards. #tabletop
+https://scontent-sit4-1.cdninstagram.com/vp/4a63a3d3e6e8a17f213e7f417bfa8adb/5BE38E58/t51.2885-15/e15/10914354_1604990393065677_1759143942_n.jpg
+This is not how you want your filament spool to look 2 hrs 40 minutes into a 3 hour print. Should be just barely enough left. #3dprinting
+https://scontent-sit4-1.cdninstagram.com/vp/cae4d23fdea4e6b8da1349e92ee2d801/5BD5179D/t51.2885-15/e15/1962890_805064512896735_203847397_n.jpg
+3d printable #Splendor game organizer that I just finished based on a minimalist foam core design posted earlier this week on reddit. Pretty happy with the result, now the game is much more portable. #tabletop
