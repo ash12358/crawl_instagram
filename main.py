@@ -5,7 +5,7 @@ from blacklist import Blacklist
 usernames = []
 
 start = False
-start_username = 'elwaslibet'
+start_username = 'jsterne33'
 
 
 def check(username):
